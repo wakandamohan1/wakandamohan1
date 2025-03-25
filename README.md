@@ -1,6 +1,6 @@
 # 👋 **Heyo!! I'm Ashwin Mohan.**
 
-I was born and brought up in Africa, and that deep attachment to the land inspired my username wakandamohan1—a tribute to Wakanda from Black Panther. Wakanda Forever **\m/**
+I was born and brought up in Africa, and that deep attachment to the land inspired my username wakandamohan1—a tribute to Wakanda from Black Panther. # **Wakanda Forever **\m/**
 
 # 🚀 Welcome to my GitHub!
 # **I'm passionate about Data Analytics, Power BI, SQL, and Python**
