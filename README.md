@@ -37,7 +37,6 @@ A review of marketing campaign data to track customer engagement and conversions
 
 ✅ Leverage Excel & Power Query for reporting
 
-Thanks for landing on my git! wakanda forever !!!
 
 # "Just because something works doesn’t mean it can’t be improved!" 🖤
 # **Wakanda Forever \m/**
