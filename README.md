@@ -6,13 +6,15 @@
 
 #🌟 About Me
 
-📊💡.Blending data analytics expertise with business strategy, I transform complex datasets into actionable insights. I drive decision-making, enhance stakeholder engagement, and identify opportunities to optimize revenue and business performance.
-
 Data Enthusiast || Storyteller with Numbers || Passionate about Business Intelligence & Data Analytics
 
-I was born and brought up in Africa, and that deep attachment to the land inspired my username wakandamohan1—A tribute to Wakanda from Black Panther. # **Wakanda Forever **\m/**
+📊💡.Blending data analytics expertise with business strategy, I transform complex datasets into actionable insights. I drive decision-making, enhance stakeholder engagement, and identify opportunities to optimize revenue and business performance.
+
+I was born and brought up in Africa, and that deep attachment to the land inspired my username wakandamohan1—A tribute to Wakanda from Black Panther. 
 
 "Just because something works doesn’t mean it can’t be improved!" 🖤
+#**Wakanda Forever **\m/**
+
 
 
 🔥 Projects I've Worked On
