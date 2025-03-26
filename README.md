@@ -1,22 +1,18 @@
 # 👋 **Heyo!! I'm Ashwin Mohan.**
 
-I was born and brought up in Africa, and that deep attachment to the land inspired my username wakandamohan1—a tribute to Wakanda from Black Panther. # **Wakanda Forever **\m/**
-
 # 🚀 Welcome to my GitHub!
+
 # **I'm passionate about Data Analytics, Power BI, SQL, and Python**
 
+#🌟 About Me
 
-📊💡. My journey has taken me from sales and business roles to the exciting world of data, where I analyze, visualize, and derive insights that drive impactful decisions.
+📊💡.Blending data analytics expertise with business strategy, I transform complex datasets into actionable insights. I drive decision-making, enhance stakeholder engagement, and identify opportunities to optimize revenue and business performance.
 
-🌟 About Me
-Data Enthusiast | Storyteller with Numbers
+Data Enthusiast || Storyteller with Numbers || Passionate about Business Intelligence & Data Analytics
 
-Passionate about Business Intelligence & Data Analytics
+I was born and brought up in Africa, and that deep attachment to the land inspired my username wakandamohan1—A tribute to Wakanda from Black Panther. # **Wakanda Forever **\m/**
 
-Transitioning from sales & business roles to a data-driven career
-
-Inspired by Black Panther – "Just because something works doesn’t mean it can’t be improved!" 🖤
-
+"Just because something works doesn’t mean it can’t be improved!" 🖤
 
 
 🔥 Projects I've Worked On
