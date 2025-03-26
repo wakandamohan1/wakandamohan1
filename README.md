@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to my GitHub!
 
-## **I'm a business analyst with vast experience driving data-informed decisions and optimizing business processes across complex data landscapes..**
+## **I'm a Business Analyst with vast experience driving data-informed decisions and optimizing business processes across complex data landscapes..**
 
 # 🌟 About Me
 
