@@ -30,8 +30,11 @@ A review of marketing campaign data to track customer engagement and conversions
 💡 What I Do:
 
 ✅ Build interactive dashboards & visualizations in Power BI , Excel and Tableau
+
 ✅ Write efficient SQL queries for data analysis
+
 ✅ Use Python for data manipulation & automation
+
 ✅ Leverage Excel & Power Query for reporting
 
 Thanks for landing on my git! wakanda forever !!!
