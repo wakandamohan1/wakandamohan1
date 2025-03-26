@@ -4,7 +4,7 @@
 
 ## **I'm passionate about Data Analytics, Power BI, SQL, and Python**
 
-#🌟 About Me
+# 🌟 About Me
 
 Data Enthusiast || Storyteller with Numbers || Passionate about Business Intelligence & Data Analytics
 
