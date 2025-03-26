@@ -33,8 +33,6 @@ A review of marketing campaign data to track customer engagement and conversions
 
 ✅ Write efficient SQL queries for data analysis
 
-✅ Use Python for data manipulation & automation
-
 ✅ Leverage Excel & Power Query for reporting
 
 
