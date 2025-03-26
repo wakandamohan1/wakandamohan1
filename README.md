@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to my GitHub!
 
-## **I'm passionate about data analytics and enjoy working with Power BI, , Tableau ,  SQL, Python adn advanced excel to derive meaningful insights.**
+## **I'm passionate about data analytics and enjoy working with Power BI, , Tableau ,  SQL, Python and advanced excel to derive meaningful insights.**
 
 # 🌟 About Me
 
