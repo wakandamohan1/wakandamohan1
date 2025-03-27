@@ -17,13 +17,18 @@ Feel free to explore my projects (links below) and connect with me!
 
 # [E-Commerce Payment & Delivery Analytics](https://github.com/wakandamohan1/E-Commerce-Payment-and-Delivery-Analytics-Case-Study)
 An analysis of an e-commerce platform's payment and delivery trends, identifying bottlenecks in the fulfillment process and enhancing customer satisfaction.
+![Power BI Dashboard Preview](https://github.com/wakandamohan1/E-Commerce-Payment-and-Delivery-Analytics-Case-Study/blob/main/Ecommerce_Powerbi.png)
 
-# **[California Healthcare Capacity Study](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study)**
-A deep dive into hospital utilization and bed capacity across California, providing insights for better healthcare resource planning.
+
 
 # [Marketing Performance Analysis (Marketo)](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data)
 Marketing Performance Analysis (Marketo)
 A review of marketing campaign data to track customer engagement and conversions, guiding future strategies for improved ROI.
+![Power BI Dashboard Preview](Screenshot 2025-03-23 152747.png)
+
+# **[California Healthcare Capacity Study](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study)**
+A deep dive into hospital utilization and bed capacity across California, providing insights for better healthcare resource planning.
+
 
 
 
