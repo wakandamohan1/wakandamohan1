@@ -42,7 +42,7 @@ This project provides a comprehensive analysis of healthcare performance across 
 
 ✅ Utilize Excel & Power Query for robust reporting
 
-✅ Enhancing my Python skills to soon integrate code-based analyses into my projects
+✅ Enhancing my Python skills to soon integrate code-based analysis into my projects
 
 
 ## "Just because something works doesn’t mean it can’t be improved!" 🖤
