@@ -13,7 +13,7 @@ Born and raised in Botswana, my deep connection to Africa inspired my username w
 
 Just like Wakanda blends technology and tradition, I use Power BI, SQL, Python, Tableau, and Excel to turn raw data into insightful visualizations that drive decision-making.
 
-Below is a preview of my projects—Click on a title to view the full project and download the dashboards. 🚀
+## Below is a preview of my projects—Click on a title to view the full project and download the dashboards. 🚀
 
 # 🔥 Projects I've Worked On
 
