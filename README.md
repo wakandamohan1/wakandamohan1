@@ -23,13 +23,12 @@ An analysis of an e-commerce platform's payment and delivery trends, identifying
 
 
 
-# [Marketing Performance Analysis (Marketo)](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data)
-Marketing Performance Analysis (Marketo)
-A review of marketing campaign data to track customer engagement and conversions, guiding future strategies for improved ROI.
+# [Marketing Performance Analysis](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data)
+This project analyzes marketing campaign data from Marketo for a single company, evaluating customer engagement, web interactions, and email campaign performance. The insights help refine marketing strategies and improve ROI.
 ![Excel Dashboard Preview](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data/blob/main/Screenshot%202025-03-23%20152747.png)
 
-# **[California Healthcare Capacity Study](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study)**
-A deep dive into hospital utilization and bed capacity across California, providing insights for better healthcare resource planning.
+# [Insights into California's Healthcare System Performance and Patient Trends](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study)**
+This project provides a comprehensive analysis of hospital performance across California. It examines key metrics such as hospital distribution by county, top-performing hospitals, doctors managing the most facilities, quarterly net patient revenue, average patient stays, total visitor counts, and revenue by hospital type. These insights offer actionable guidance for strategic healthcare optimization.
 ![Tableau Dashboard Preview](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study/blob/main/tableau_screenshot.png)
 
 
@@ -37,11 +36,13 @@ A deep dive into hospital utilization and bed capacity across California, provid
 
 💡 What I Do:
 
-✅ Build interactive dashboards & visualizations in Power BI , Excel and Tableau
+✅ Develop interactive dashboards & visualizations using Power BI, Excel, and Tableau\
 
-✅ Write efficient SQL queries for data analysis
+✅ Craft efficient SQL queries for insightful data analysis
 
-✅ Leverage Excel & Power Query for reporting
+✅ Utilize Excel & Power Query for robust reporting
+
+✅ Enhancing my Python skills to soon integrate code-based analyses into my projects
 
 
 # "Just because something works doesn’t mean it can’t be improved!" 🖤
