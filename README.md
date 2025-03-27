@@ -24,11 +24,11 @@ An analysis of an e-commerce platform's payment and delivery trends, identifying
 # [Marketing Performance Analysis (Marketo)](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data)
 Marketing Performance Analysis (Marketo)
 A review of marketing campaign data to track customer engagement and conversions, guiding future strategies for improved ROI.
-![Power BI Dashboard Preview](Screenshot 2025-03-23 152747.png)
+![Excel Dashboard Preview](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data/blob/main/Screenshot%202025-03-23%20152747.png)
 
 # **[California Healthcare Capacity Study](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study)**
 A deep dive into hospital utilization and bed capacity across California, providing insights for better healthcare resource planning.
-
+![Tableau Dashboard Preview](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study/blob/main/tableau_screenshot.png)
 
 
 
