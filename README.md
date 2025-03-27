@@ -1,17 +1,17 @@
 # 👋 **Heyo!! I'm Ash_win Mohan.** 
-(I hope you get the pronounciation right now :stuck_out_tongue: )
+(I hope you get the pronunciation right if we end up meeting :stuck_out_tongue: )
 
 # 🚀 Welcome to my GitHub!
-
-## **I'm a Business Analyst with vast experience driving data-informed decisions and optimizing business processes across complex data landscapes..**
 
 # 🌟 About Me
 
 Data Enthusiast || Storyteller with Numbers || Passionate about Business Intelligence & Data Analytics
 
-📊💡.Blending data analytics expertise with business strategy, I transform complex datasets into actionable insights. I drive decision-making, enhance stakeholder engagement, and identify opportunities to optimize revenue and business performance.
+I'm a Business Analyst with  with a strong background in sales, business intelligence, and data visualization. Born and raised in Botswana, a small yet vibrant country in Southern Africa, I have always had a deep attachment to the land and Africa as a whole. This connection inspired my username wakandamohan1— A tribute to Wakanda from Black Panther, a symbol of technological advancement, resilience, and innovation.
 
-I was born and brought up in Africa, and that deep attachment to the land inspired my username wakandamohan1—A tribute to Wakanda from Black Panther. 
+Just like Wakanda, where technology seamlessly blends with tradition, I am passionate about leveraging data-driven insights to create impactful solutions. My expertise lies in Power BI, SQL, Python, Tableau, and Advanced Excel, enabling me to transform raw data into meaningful visualizations that drive decision-making
+
+Feel free to explore my projects (links below) and connect with me! 
 
 # 🔥 Projects I've Worked On
 
@@ -39,5 +39,6 @@ A review of marketing campaign data to track customer engagement and conversions
 
 # "Just because something works doesn’t mean it can’t be improved!" 🖤
 # **Wakanda Forever \m/**
+
 
 ## 🌐 Connect With Me: ashmohan197@gmail.com
