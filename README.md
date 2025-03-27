@@ -17,17 +17,17 @@ Below is a preview of my projects—Click on a title to view the full project an
 
 # 🔥 Projects I've Worked On
 
-# [E-Commerce Payment & Delivery Analytics](https://github.com/wakandamohan1/E-Commerce-Payment-and-Delivery-Analytics-Case-Study)
+# 1>[E-Commerce Payment & Delivery Analytics](https://github.com/wakandamohan1/E-Commerce-Payment-and-Delivery-Analytics-Case-Study)
 An analysis of an e-commerce platform's payment and delivery trends, identifying bottlenecks in the fulfillment process and enhancing customer satisfaction.
 ![Power BI Dashboard Preview](https://github.com/wakandamohan1/E-Commerce-Payment-and-Delivery-Analytics-Case-Study/blob/main/Ecommerce_Powerbi.png)
 
 
 
-# [Marketing Performance Analysis](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data)
+# 2>[Marketing Performance Analysis](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data)
 This project analyzes marketing campaign data from Marketo for a single company, evaluating customer engagement, web interactions, and email campaign performance. The insights help refine marketing strategies and improve ROI.
 ![Excel Dashboard Preview](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data/blob/main/Screenshot%202025-03-23%20152747.png)
 
-# [Insights into California's Healthcare System Performance and Patient Trends](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study)**
+# 3>[Insights into California's Healthcare System Performance and Patient Trends](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study)**
 This project provides a comprehensive analysis of hospital performance across California. It examines key metrics such as hospital distribution by county, top-performing hospitals, doctors managing the most facilities, quarterly net patient revenue, average patient stays, total visitor counts, and revenue by hospital type. These insights offer actionable guidance for strategic healthcare optimization.
 ![Tableau Dashboard Preview](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study/blob/main/tableau_screenshot.png)
 
