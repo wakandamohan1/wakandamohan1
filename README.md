@@ -28,7 +28,7 @@ This project analyzes marketing campaign data from Marketo for a single company,
 ![Excel Dashboard Preview](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data/blob/main/Screenshot%202025-03-23%20152747.png)
 
 # 3>[Insights into California's Healthcare System Performance and Patient Trends](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study)
-This project provides a comprehensive analysis of hospital performance across California. It examines key metrics such as hospital distribution by county, top-performing hospitals, doctors managing the most facilities, quarterly net patient revenue, average patient stays, total visitor counts, and revenue by hospital type. These insights offer actionable guidance for strategic healthcare optimization.
+This project provides a comprehensive analysis of healthcare performance across California. It examines key metrics such as hospital distribution by county, top-performing hospitals, doctors managing the most facilities, quarterly net patient revenue, average patient stays, total visitor counts, and revenue by hospital type. These insights offer actionable guidance for strategic healthcare optimization.
 ![Tableau Dashboard Preview](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study/blob/main/tableau_screenshot.png)
 
 
