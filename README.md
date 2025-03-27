@@ -34,9 +34,9 @@ This project provides a comprehensive analysis of healthcare performance across 
 
 
 
-💡 What I Do:
+# 💡 What I Do:
 
-✅ Develop interactive dashboards & visualizations using Power BI, Excel, and Tableau\
+✅ Develop interactive dashboards & visualizations using Power BI, Excel, and Tableau.
 
 ✅ Craft efficient SQL queries for insightful data analysis
 
@@ -45,7 +45,7 @@ This project provides a comprehensive analysis of healthcare performance across 
 ✅ Enhancing my Python skills to soon integrate code-based analyses into my projects
 
 
-# "Just because something works doesn’t mean it can’t be improved!" 🖤
+## "Just because something works doesn’t mean it can’t be improved!" 🖤
 # **Wakanda Forever \m/**
 
 
