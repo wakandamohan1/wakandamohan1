@@ -5,13 +5,15 @@
 
 # 🌟 About Me
 
-Data Enthusiast || Storyteller with Numbers || Passionate about Business Intelligence & Data Analytics
+Data Enthusiast || Storyteller with Numbers || Passionate about BI & Analytics
 
-I'm a Business Analyst with  with a strong background in sales, business intelligence, and data visualization. Born and raised in Botswana, a small yet vibrant country in Southern Africa, I have always had a deep attachment to the land and Africa as a whole. This connection inspired my username wakandamohan1— A tribute to Wakanda from Black Panther, a symbol of technological advancement, resilience, and innovation.
+I'm a Business Analyst with a strong background in sales, business intelligence, and data visualization.
 
-Just like Wakanda, where technology seamlessly blends with tradition, I am passionate about leveraging data-driven insights to create impactful solutions. My expertise lies in Power BI, SQL, Python, Tableau, and Advanced Excel, enabling me to transform raw data into meaningful visualizations that drive decision-making
+Born and raised in Botswana, my deep connection to Africa inspired my username wakandamohan1—A tribute to Wakanda from Black Panther, symbolizing innovation and resilience.
 
-Feel free to explore my projects (links below) and connect with me! 
+Just like Wakanda blends technology and tradition, I use Power BI, SQL, Python, Tableau, and Excel to turn raw data into insightful visualizations that drive decision-making.
+
+Below is a preview of my projects—Click on a title to view the full project and download the dashboards. 🚀
 
 # 🔥 Projects I've Worked On
 
