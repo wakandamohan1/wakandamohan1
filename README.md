@@ -23,9 +23,14 @@ An analysis of an e-commerce platform's payment and delivery trends, identifying
 
 
 
-# 2>[Marketing Performance Analysis](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data)
-This project analyzes marketing campaign data from Marketo , evaluating customer engagement, web interactions, and email campaign performance. The insights help refine marketing strategies and improve ROI.
-![Power Bi Dashboard Preview](https://github.com/wakandamohan1/wakandamohan1/blob/main/Screenshot%202025-04-03%20032539.png)
+# 2>[Digital Marketing Performance: Web Engagement & Email Strategy](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data)
+TThis project provides a detailed analysis of marketing performance, focusing on web traffic engagement and email campaign effectiveness. It consists of two dashboards:
+
+📌 **[Website Traffic Overview](https://github.com/wakandamohan1/wakandamohan1/blob/main/Screenshot%202025-04-03%20032539.png)** – Analyzes total page views, visitor trends, bounce rates, and traffic sources to assess audience engagement.  
+
+📌 **[Email Campaign Analysis](https://github.com/wakandamohan1/wakandamohan1/blob/main/Screenshot%202025-04-03%20033444.png)** – Evaluates key email marketing KPIs such as **open rate, CTR, engagement rate**, and high/low-performing campaigns to optimize outreach strategies.  
+
+🔗 **Project Link:** [Marketing Performance Analysis](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data)  
 
 # 3>[Insights into California's Healthcare System Performance and Patient Trends](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study)
 This project provides a comprehensive analysis of healthcare performance across California. It examines key metrics such as hospital distribution by county, top-performing hospitals, doctors managing the most facilities, quarterly net patient revenue, average patient stays, total visitor counts, and revenue by hospital type. These insights offer actionable guidance for strategic healthcare optimization.
