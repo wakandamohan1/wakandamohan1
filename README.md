@@ -24,8 +24,8 @@ An analysis of an e-commerce platform's payment and delivery trends, identifying
 
 
 # 2>[Marketing Performance Analysis](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data)
-This project analyzes marketing campaign data from Marketo for a single company, evaluating customer engagement, web interactions, and email campaign performance. The insights help refine marketing strategies and improve ROI.
-![Excel Dashboard Preview](https://github.com/wakandamohan1/Marketing-Performance-Marketo-Data/blob/main/Screenshot%202025-03-23%20152747.png)
+This project analyzes marketing campaign data from Marketo , evaluating customer engagement, web interactions, and email campaign performance. The insights help refine marketing strategies and improve ROI.
+![Power Bi Dashboard Preview](https://github.com/wakandamohan1/wakandamohan1/blob/main/Screenshot%202025-04-03%20032539.png)
 
 # 3>[Insights into California's Healthcare System Performance and Patient Trends](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study)
 This project provides a comprehensive analysis of healthcare performance across California. It examines key metrics such as hospital distribution by county, top-performing hospitals, doctors managing the most facilities, quarterly net patient revenue, average patient stays, total visitor counts, and revenue by hospital type. These insights offer actionable guidance for strategic healthcare optimization.
