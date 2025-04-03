@@ -62,4 +62,8 @@ This project provides a comprehensive analysis of healthcare performance across 
 # **Wakanda Forever \m/**
 
 
-## 🌐 Connect With Me: ashmohan197@gmail.com
+## 🌐 Connect With Me: ashmohan197@gmail.com 
+
+For Hiring Managers- Get in touch with me 
+
+LINKEDIN : https://www.linkedin.com/in/wakandamohan/ 
