@@ -1,5 +1,4 @@
-# 👋 **Heyo!! I'm Ash_win Mohan.** 
-(I hope you get the pronunciation right if we end up meeting :stuck_out_tongue: )
+# 👋 **Hello World!! I'm Ash_win Mohan.** 
 
 # 🚀 Welcome to my GitHub!
 
