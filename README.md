@@ -48,7 +48,7 @@ This project provides a comprehensive analysis of healthcare performance across 
 
 ✅ Develop interactive dashboards & visualizations using Power BI, Excel, and Tableau.
 
-✅ Craft efficient SQL queries for insightful data analysis
+✅ I use SQL primarily for ad hoc queries to extract, filter, and analyze data based on specific business needs. For example, if a stakeholder wants to know last week's revenue from Bangalore, I write a quick query to fetch that info directly from the database — no need to build a whole report.
 
 ✅ Utilize Excel & Power Query for robust reporting
 
