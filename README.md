@@ -2,17 +2,13 @@
 
 # 🚀 Welcome to my GitHub!
 
-# 🌟 About Me
+## 💡 What I Do
+- 📊 Develop interactive dashboards and visualizations using **Power BI**, **Tableau**, and **Excel**.
+- 🗃️ Leverage **SQL** for ad-hoc queries to extract, filter, and analyze data for business needs.
+- 📈 Build robust reporting solutions with **Excel** and **Power Query**.
+- 🐍 Integrate **Python** for advanced data analysis and automation in my projects.
 
-Data Enthusiast || Storyteller with Numbers || Passionate about BI & Analytics
-
-I'm a Business Analyst with a strong background in sales, business intelligence, and data visualization.
-
-Born and raised in Botswana, my deep connection to Africa inspired my username wakandamohan1—A tribute to Wakanda from Black Panther, symbolizing innovation and resilience.
-
-Just like Wakanda blends technology and tradition, I use Power BI, SQL, Python, Tableau, and Excel to turn raw data into insightful visualizations that drive decision-making.
-
-## Below is a preview of my projects—Click on a title to view the full project and download the dashboards. 🚀
+--
 
 # 🔥 Projects I've Worked On
 
@@ -43,16 +39,18 @@ This project provides a **detailed analysis of marketing performance**, focusing
 This project provides a comprehensive analysis of healthcare performance across California. It examines key metrics such as hospital distribution by county, top-performing hospitals, doctors managing the most facilities, quarterly net patient revenue, average patient stays, total visitor counts, and revenue by hospital type. These insights offer actionable guidance for strategic healthcare optimization.
 ![Tableau Dashboard Preview](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study/blob/main/tableau_screenshot.png)
 
+# 🌟 More About Me
 
-# 💡 What I Do:
+Data Enthusiast || Storyteller with Numbers || Passionate about BI & Analytics
 
-✅ Develop interactive dashboards & visualizations using Power BI, Excel, and Tableau.
+I'm a Business Analyst with a strong background in sales, business intelligence, and data visualization.
 
-✅ I use SQL primarily for ad hoc queries to extract, filter, and analyze data based on specific business needs. For example, if a stakeholder wants to know last week's revenue from Bangalore, I write a quick query to fetch that info directly from the database — no need to build a whole report.
+Born and raised in Botswana, my deep connection to Africa inspired my username wakandamohan1—A tribute to Wakanda from Black Panther, symbolizing innovation and resilience.
 
-✅ Utilize Excel & Power Query for robust reporting
+Just like Wakanda blends technology and tradition, I use Power BI, SQL, Python, Tableau, and Excel to turn raw data into insightful visualizations that drive decision-making.
 
-✅ Integrate python code-based analysis into my projects
+## Below is a preview of my projects—Click on a title to view the full project and download the dashboards. 🚀
+
 
 
 ## "Just because something works doesn’t mean it can’t be improved!" 🖤
