@@ -4,9 +4,11 @@
 
 ## 💡 What I Do
 - 📊 Develop interactive dashboards and visualizations using **Power BI**, **Tableau**, and **Excel**.
-- 🗃️ Leverage **SQL** for ad-hoc queries to extract, filter, and analyze data for business needs.
-- 📈 Build robust reporting solutions with **Excel** and **Power Query**.
-- 🐍 Integrate **Python** for advanced data analysis and automation in my projects.
+- 🗃️ Use SQL for ad-hoc queries to extract, join, and filter data, supporting quick business decisions and deep-dive analyses.
+- 🐍 Apply Python for advanced analysis, automation, and data wrangling tasks where needed.
+- 🤝 Collaborate with stakeholders across sales, marketing, and operations to understand requirements and deliver data-driven solutions that align with business goals.
+- 🧩 Comfortable working with data models, calculated fields, and DAX/Power Query to enhance reporting capabilities.
+
 ## Below is a preview of my projects—Click on a title to view the full project and download the dashboards for a better interactive view . 🚀
 
 
