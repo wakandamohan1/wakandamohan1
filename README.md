@@ -7,6 +7,7 @@
 - 🗃️ Leverage **SQL** for ad-hoc queries to extract, filter, and analyze data for business needs.
 - 📈 Build robust reporting solutions with **Excel** and **Power Query**.
 - 🐍 Integrate **Python** for advanced data analysis and automation in my projects.
+## Below is a preview of my projects—Click on a title to view the full project and download the dashboards for a better interactive view . 🚀
 
 --
 
@@ -48,10 +49,6 @@ I'm a Business Analyst with a strong background in sales, business intelligence,
 Born and raised in Botswana, my deep connection to Africa inspired my username wakandamohan1—A tribute to Wakanda from Black Panther, symbolizing innovation and resilience.
 
 Just like Wakanda blends technology and tradition, I use Power BI, SQL, Python, Tableau, and Excel to turn raw data into insightful visualizations that drive decision-making.
-
-## Below is a preview of my projects—Click on a title to view the full project and download the dashboards. 🚀
-
-
 
 ## "Just because something works doesn’t mean it can’t be improved!" 🖤
 # **Wakanda Forever \m/**
